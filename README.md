@@ -2,7 +2,7 @@
 
 %****************************************************
 
-Software for color image denoising
+Software for MURE-2DPCA
 
 Copyright (c) Huazhong University of Science and Technology.
 
